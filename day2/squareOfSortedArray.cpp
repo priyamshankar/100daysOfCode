@@ -1,3 +1,6 @@
+
+// problem link: https://leetcode.com/problems/squares-of-a-sorted-array/?envType=study-plan&id=algorithm-i
+
 class Solution {
 public:
     vector<int> sortedSquares(vector<int>& nums) {
